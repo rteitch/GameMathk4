@@ -1,6 +1,6 @@
 # GameMathk4
 
-UTS PBO<br>
+UTS PBO Kelompok 4
 
 - Univ      : UNS
 - Prodi     : Pendidikan Teknik Informatika dan Komputer
@@ -8,7 +8,7 @@ UTS PBO<br>
 - Semester  : 3
 - Kelas     : B
 
-Kelompok 4 Anggota:
+Anggota:
 1. Afifah
 2. Didit
 3. Rizal
