@@ -1,10 +1,9 @@
 # GameMathk4
 
-- UTS PBO -
-Prodi : Pendidikan Teknik Informatika & Komputer. 
-Angkatan : 2018
-Kelas : B
-
+- UTS PBO -<br>
+Prodi : Pendidikan Teknik Informatika & Komputer.<br> 
+Angkatan : 2018<br>
+Kelas : B<br>
 Kelompok 4
 Anggota:
 - Afifah
