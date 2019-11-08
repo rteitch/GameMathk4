@@ -2,12 +2,13 @@
 
 UTS PBO<br>
 
-- Prodi     : Pendidikan Teknik Informatika & Komputer
+- Univ      : UNS
+- Prodi     : Pendidikan Teknik Informatika dan Komputer
 - Angkatan  : 2018
+- Semester  : 3
 - Kelas     : B
-- Kelompok 4
 
-Anggota:
+Kelompok 4 Anggota:
 1. Afifah
 2. Didit
 3. Rizal
